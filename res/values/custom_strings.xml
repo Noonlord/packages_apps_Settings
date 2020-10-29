@@ -52,4 +52,7 @@
     <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
     <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
 
+    <!-- FOD animations -->
+    <string name="fod_recog_animation">FOD recognizing animation</string>
+    <string name="fod_recog_animation_summary">Shows an animation while reading your finger</string>
 </resources>
